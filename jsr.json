@@ -1,0 +1,5 @@
+{
+  "name": "@natpbs/channel",
+  "version": "0.1.0",
+  "exports": "./channel.js"
+}
